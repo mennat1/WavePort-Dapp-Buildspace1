@@ -3,8 +3,8 @@
 
 ## Brief:
 - I used Hardhat, ethers.js and deployed on Rinkeby Testnet.
-- This dapp lets you connect via metamask to send a message and have a 50% chance to win 0.001 ether.
-- It keeps track of all received messages and render their sender address, timestamp, and text.
+- This dapp lets you connect via metamask, send a message and get a 50% chance to win 0.0001 fake ether.
+- It keeps track of all received messages and renders their sender address, timestamp, and text.
 
 ## To do:
 - Use chainlink VRF to generate the random seed.
