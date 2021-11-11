@@ -9,3 +9,6 @@
 ## To do:
 - Use chainlink VRF to generate the random seed.
   
+
+## Check it on Repl.it:
+Link: (https://waveportal-starter-project.mennaabuelnaga.repl.co/)
