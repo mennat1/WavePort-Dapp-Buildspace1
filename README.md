@@ -1,15 +1,11 @@
-# Basic Sample Hardhat Project
+# Simple Wave Port Dapp (Buildspace First Project)
+![This is an image for the dapp UI](./dappUI.png)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+## Brief:
+- I used Hardhat, ethers.js and deployed on Rinkeby Testnet.
+- This dapp lets you connect via metamask to send a message and have a 50% chance to win 0.001 ether.
+- It keeps track of all received messages and render their sender address, timestamp, and text.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+## To do:
+- Use chainlink VRF to generate the random seed.
+  
