@@ -1,4 +1,4 @@
-# Simple Wave Port Dapp (Buildspace First Project)
+# Simple Wave Portal Dapp (Buildspace First Project)
 ![This is an image for the dapp UI](./dappUI.png)
 
 ## Brief:
